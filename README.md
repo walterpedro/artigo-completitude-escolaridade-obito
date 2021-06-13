@@ -1,4 +1,4 @@
-# Artigo - Avaliação da qualidade do registro de óbito no Brasil: determinantes sociodemográficos da incompletitude da escolaridade
+# Artigo - Avaliação da qualidade do registro de morte no Brasil: determinantes sociodemográficos de informações incompletas de educação
 
 - Autores:</p>
 WALTER PEDRO SILVA JUNIOR ([ORCID](https://orcid.org/0000-0003-1747-9233));<br />
