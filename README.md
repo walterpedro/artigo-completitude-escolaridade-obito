@@ -6,7 +6,7 @@ FLÁVIO HENRIQUE MIRANDA DE ARAÚJO FREIRE ([ORCID](https://orcid.org/0000-0002-
 MARCOS ROBERTO GONZAGA ([ORCID](https://orcid.org/0000-0002-6088-3453));<br />
 DAMIÃO NÓBREGA DA SILVA ([ORCID](https://orcid.org/0000-0003-3031-0870));
 
-- A versão `.pdf` do artigo pode ser obtida no site da [RELAP - Resvista Latinoamericana de Población](https://revistarelap.org/index.php/relap/issue/view/28) ou no próprio [GitHub](https://Corrigir isso).
+- A versão `.pdf` do artigo pode ser obtida no site da [RELAP - Resvista Latinoamericana de Población](https://revistarelap.org/index.php/relap/issue/view/28) ou no próprio [GitHub](https://Aguardando-ser-disponibilizado-pela-revista).
 
 ## Orientações iniciais 
 - Este é um guia para reprodutibilidade dos resultados apresentados no artigo;
