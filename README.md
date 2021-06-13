@@ -1,0 +1,1 @@
+# artigo-completitude-escolaridade-obito
