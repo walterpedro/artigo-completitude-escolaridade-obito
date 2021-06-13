@@ -13,7 +13,7 @@ DAMIÃO NÓBREGA DA SILVA ([ORCID](https://orcid.org/0000-0003-3031-0870));
 - Os scripts estão em uma sequência lógica e guarda dependência entre si. Portanto, recomenda-se reproduzir os resultados seguindo a sequência diponível no tópico **Resultados do artigo: Organização do repositório de scripts para reprodutibilidade**.
 - Lembre-se de alterar todos os diretórios nos scripts para onde eles foram salvos. Isso evitará erros no R;
  - É fundamental que os pacotes/bibliotecas necessários do R  estejam instalados e carregados. Eles estão indicados em cada script;
- - Apesar de disponibilizar a rotina computacional, nós também deixaremos disponíveis a base de dados já consolidada e as figuras/tabelas resultantes do artigo no tópico **Arquivos**.
+ - Apesar de disponibilizar a rotina computacional, nós também deixaremos disponíveis as figuras/tabelas resultantes do artigo no tópico **Arquivos**.
 
 ## Resultados do artigo: Organização do repositório de scripts para reprodutibilidade
 
@@ -30,7 +30,7 @@ DAMIÃO NÓBREGA DA SILVA ([ORCID](https://orcid.org/0000-0003-3031-0870));
 </p>
 
 - **Nome do arquivo:** 4 - categorização
-- **Descrição:** Categoriza as variáveis conforme detalhado no artigo;
+- **Descrição:** Categoriza as variáveis conforme detalhado no artigo. A base de dados final é denominada "ano2010_adultos";
 </p>
 
 - **Nome do arquivo:** 5 - tabelas descritivas e RC
