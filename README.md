@@ -1,4 +1,4 @@
-# Artigo - Avaliação da qualidade do registro de morte no Brasil: determinantes sociodemográficos de informações incompletas de educação
+# Artigo - Evaluation of the death records quality in Brazil: Sociodemographic determinants of incomplete education information
 
 - Autores:</p>
 WALTER PEDRO SILVA JUNIOR ([ORCID](https://orcid.org/0000-0003-1747-9233));<br />
@@ -40,8 +40,7 @@ DAMIÃO NÓBREGA DA SILVA ([ORCID](https://orcid.org/0000-0003-3031-0870));
 
 ## Arquivos
 
-Neste link você encontra todos os arquivos gerados e que foram utilizados no artigo 
-(Inserir link da pasta no github)
+Neste ([link](https://github.com/walterpedro/artigo-completitude-escolaridade-obito/tree/main/arquivos-resultados) você encontra todos os arquivos gerados e que foram utilizados no artigo.
 
 
 ____
